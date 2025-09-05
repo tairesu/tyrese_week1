@@ -1,0 +1,26 @@
+Que 1: Cloning remote repo to local
+Command: git clone git@github.com:tairesu/tyrese_week1.git
+progress.txt edited on: local machine 
+command ran on:local machine
+
+Que 2: Creating practice folder and progress file
+Command(s): mkdir practice; nano practice/progress.txt 
+progress.txt edited on: local machine
+command ran on: local machine
+
+Que 3: Creating a simply Python file using echo
+Command: echo "print('Hello World')" > app.py
+progress.txt edited on: local machine
+command ran on: local machine
+ 
+
+Que 4: Add all files to staging
+Command: git add .
+progress.txt edited on:local machine
+command ran on: local machine 
+
+Que 5: Committing the staged files
+Command: git commit -m "Initial commit"
+
+Que 6: Pushing to master branch
+Command: git push -u origin master
