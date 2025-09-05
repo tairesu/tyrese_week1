@@ -24,3 +24,7 @@ Command: git commit -m "Initial commit"
 
 Que 6: Pushing to master branch
 Command: git push -u origin master
+
+Que 7: Editing progress.txt on Github site
+Command: "No terminal commands- edit on Github"
+progress.txt edited on: Github Site
